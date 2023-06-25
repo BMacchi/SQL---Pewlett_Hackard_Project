@@ -5,7 +5,8 @@ It’s been two weeks since you were hired as a new data engineer at Pewlett Hac
 For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
 
 Files
-- In the data folder, you'll find the 6 .csv files used to create the tables and query results
+In the data folder, you'll find the 6 .csv files used to create the tables and query results
+In the EmployeeSQL folder, you'll find:
 - A .PNG file of the entity relationship diagram (ERD)
 - A .SQL file with the table schemas
 - a .SQL file with the queries
