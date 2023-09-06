@@ -10,4 +10,4 @@ In the data folder, you'll find the 6 .csv files used to create the tables and q
 In the EmployeeSQL folder, you'll find:
 - A .PNG file of the entity relationship diagram (ERD)
 - A .SQL file with the table schemas
-- a .SQL file with the queries
+- A .SQL file with the queries
